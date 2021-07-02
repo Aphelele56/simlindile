@@ -1,0 +1,203 @@
+body {
+    font-family: "Lato", sans-serif;
+background-color:rgb(155, 123, 96);
+  }
+.sidenav a:hover {
+    color:( #f9f9fd);
+  }
+        .sidenav {
+            height: 100%;
+            width: 160px;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            /*background-color: rgba(16, 51, 5, 0.918);*/
+            background-image: url("pq.jpg");
+            overflow-x: hidden;
+            padding-top: 20px;
+            color: rgb(55, 24, 139);
+          } 
+          a {
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            font-size: 25px;
+            color:(rgba(122, 131, 122, 0.376));
+            display: block;
+          }
+          .details {
+              color: #f3f3fd;
+              margin-left: 50%;
+              margin-trim: 50%;
+          }
+
+          
+          h1{
+            color: rgb(230, 241, 226);
+          }
+          
+     .loader {
+       
+        border: 16px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 16px solid blue;
+        border-right: 16px solid green;
+        border-bottom: 16px solid red;
+        border-left: 16px solid pink;
+        width: 120px;
+        height: 120px;
+        -webkit-animation: spin 2s linear infinite;
+        animation: spin 2s linear infinite;
+
+      }
+      
+      @-webkit-keyframes spin {
+        0% { -webkit-transform: rotate(0deg); }
+        100% { -webkit-transform: rotate(360deg); }
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      .loader {
+        border: 16px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 16px solid blue;
+        border-right: 16px solid green;
+        border-bottom: 16px solid red;
+        border-left: 16px solid #f01338;
+        width: 170px;
+        height: 170px;
+        -webkit-animation: spin 2s linear infinite;
+        animation: spin 2s linear infinite;
+      }
+      
+      @-webkit-keyframes spin {
+        0% { -webkit-transform: rotate(0deg); }
+        100% { -webkit-transform: rotate(360deg); }
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      .loader {
+        border: 16px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 16px solid blue;
+        border-right: 16px solid green;
+        border-bottom: 16px solid red;
+        border-left: 16px solid pink;
+        width: 170px;
+        height: 290px;
+        -webkit-animation: spin 2s linear infinite;
+        animation: spin 2s linear infinite;
+        border-top: 16px solid blue;
+        border-right: 16px solid rgb(83, 235, 83);
+        border-bottom: 16px solid red;
+        border-left: 16px solid pink;
+        padding-left: 70%;
+      }
+      @-webkit-keyframes spin {
+        0% { -webkit-transform: rotate(0deg); }
+        100% { -webkit-transform: rotate(360deg); }
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+    
+      
+    
+    @-webkit-keyframes spin {
+      0% { -webkit-transform: rotate(0deg); }
+      100% { -webkit-transform: rotate(360deg); }
+    }
+    
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .form {
+      
+       margin-bottom: -4%;
+       padding-left:  15%;
+       flex: content;
+      }
+      
+      h1{
+        margin-bottom: 20;
+        padding-right:  40%;
+       color: rgb(206, 231, 231);
+      }
+    
+p{
+color: #f0f8ff;
+font-size: xlarge;
+}
+ 
+ letter{
+   color: aquamarine;
+ }
+ h4{
+   color: #16332a;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+p{
+  color: #f0f8ff;
+  font-style: oblique;
+  
+}
+
+education{
+  color: rgb(206, 231, 231);;
+  font-style: oblique;
+  
+}
+
+img{
+ padding-right: 52%;
+  margin-bottom: -19%;
+  border-radius: 60%;
+}
+
+footer{
+  margin-bottom: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
